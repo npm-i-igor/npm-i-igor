@@ -3,10 +3,10 @@
 <h1 align="left">Buonasera 👋</h1>
 
 <div align="left">
-  <a href="https://github.com/IgorVarani/IgorVarani/blob/main/README-PT.md">
+  <a href="https://github.com/npm-i-igor/npm-i-igor/blob/main/README-PT.md">
     <img src="https://img.shields.io/badge/PT--BR-green?style=for-the-badge&logo=brazil&logoColor=white" alt="Versão em Português" />
   </a>
-  <a href="https://github.com/IgorVarani">
+  <a href="https://github.com/npm-i-igor">
     <img src="https://img.shields.io/badge/ENG-blue?style=for-the-badge&logo=united-states&logoColor=white" alt="English Version" />
   </a>
 </div>
